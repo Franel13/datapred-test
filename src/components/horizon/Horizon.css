@@ -1,0 +1,13 @@
+table {
+    table-layout: fixed;
+    margin-top: 4rem;
+}
+
+table caption {
+    font-size: 26px;
+    font-weight: 700;
+}
+
+table th, td {
+    text-align: center;
+}
