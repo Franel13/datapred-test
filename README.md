@@ -15,6 +15,8 @@ Your application will be available at http://localhost:5173.
 
 ## Available Scripts
 
+Before trying to run the project locally make sure to run `npm i`
+
 In the project directory, you can run:
 
 ### `npm run start:local`
@@ -30,10 +32,14 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+You might have to press "a" to re-run all the tests
+
 ### `npm run test:coverage`
 
 Launches the test runner in the interactive watch mode with coverage.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+You might have to press "a" to re-run all the tests
 
 ## Available Scripts With `Docker`
 
@@ -53,7 +59,11 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+You might have to press "a" to re-run all the tests
+
 ### `npm run test:coverage`
 
 Launches the test runner in the interactive watch mode with coverage.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+You might have to press "a" to re-run all the tests
